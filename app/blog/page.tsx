@@ -6,7 +6,7 @@ async function getPosts() {
   return allPostsData
 }
 
-export default async function Blog() {
+export default async function Posts() {
   const allPostsData = await getPosts()
   return (
     <main className="px-16 py-10 flex flex-col content-center justify-center flex-wrap">

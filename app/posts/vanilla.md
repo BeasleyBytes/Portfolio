@@ -1,5 +1,5 @@
 ---
-title: Another post about react
+title: Vanilla ice cream
 description: Its definitely worth learning about react
 ---
 ## The value of learning React
